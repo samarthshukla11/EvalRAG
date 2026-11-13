@@ -1,7 +1,7 @@
 from src.ingestion.loader import load_pdf
 
 
-file_path = "data/documents/employee_policy.pdf"
+file_path = "data/documents/employee-policy.pdf"
 
 pages = load_pdf(file_path)
 
