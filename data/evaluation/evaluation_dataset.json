@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What is the purpose of this employee handbook?",
+        "ground_truth": "The handbook provides employees with company policies relating to hours, wages, employee benefits, and conditions of employment."
+    },
+    {
+        "question": "What is the hiring policy of the company?",
+        "ground_truth": "The company hires individuals based on their qualifications and ability to complete the responsibilities and tasks of the job."
+    },
+    {
+        "question": "How does management help employees solve problems?",
+        "ground_truth": "Management assists employees in solving problems and considering their suggestions."
+    }
+]
